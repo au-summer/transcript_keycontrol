@@ -1,4 +1,4 @@
-A keyboard transcript navigator for UMich Lecture Recordings [(link)](leccap.engin.umich.edu/leccap).
+A keyboard transcript navigator for UMich Lecture Recordings [(link)](https://leccap.engin.umich.edu/leccap).
 
 The default keybindings are:
 
