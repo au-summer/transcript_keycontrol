@@ -6,8 +6,8 @@ Keyboard navigation is especially beneficial since some transcript lines span on
 
 ## Default Keybindings
 
-- `<` — Move to the previous transcript line
-- `>` — Move to the next transcript line
+- `j` — Move to the previous transcript line
+- `k` — Move to the next transcript line
 
 > **Note:** Ensure the transcript tab is enabled for the extension to work correctly.
 
@@ -15,4 +15,3 @@ Keyboard navigation is especially beneficial since some transcript lines span on
 
 - **Keyboard Navigation:** Quickly and accurately move through transcript lines without the risk of misclicks due to varying line heights.
 - **Synchronized Captions:** Instantly updates captions to match the current transcript line, eliminating the original lag on the website.
-
